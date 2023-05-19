@@ -1,0 +1,41 @@
+read csv//read csv file
+5th col = text then skip 
+
+,
+
+data=csv.read("file path.csv")
+for i in data:
+	if line_count==5:
+		
+text file num of lines 
+
+len()
+for 
+'\n'
+
+f.read("")
+
+import csv
+with open("file path", mode='r')
+for i 
+
+file1=file1 path
+folder1=path
+try:
+	//file present in folder
+	if file1 in folder1:
+		print("file is present")
+except:
+	print
+	
+
+
+
+Python File handling:
+
+f = open(filename, mode)
+
+difference between r+ and w+
+r+ Opens a file for both reading and writing. The file pointer placed at the beginning of the file. 
+w+ Opens a file for both writing and reading. Overwrites the existing file if the file exists.
+
